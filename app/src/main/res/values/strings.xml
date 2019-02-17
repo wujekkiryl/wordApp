@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">slowka</string>
+    <string name="active_words">Aktywne słowa</string>
+    <string name="notifications_setting_btn">Ustawienia powiadomoeń</string>
+    <string name="statistics_btn">Statystyki</string>
+    <string name="title_activity_add_word">Dodaj słowo</string>
+    <string name="add_word_source">Dodaj słowo</string>
+    <string name="add_word_translation">Dodaj tłumaczenie</string>
+    <string name="add_btn">Dodaj</string>
+</resources>
